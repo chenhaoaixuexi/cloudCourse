@@ -89,7 +89,6 @@
 
 	<dependencyManagement>
 		<dependencies>
-
 			<!-- com.roncoo -->
 			<dependency>
 				<groupId>com.roncoo</groupId>

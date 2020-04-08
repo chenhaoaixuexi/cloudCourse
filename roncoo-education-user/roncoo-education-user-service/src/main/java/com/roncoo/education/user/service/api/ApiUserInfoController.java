@@ -28,6 +28,7 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping(value = "/user/api/user")
 public class ApiUserInfoController extends BaseController {
 
+
 	@Autowired
 	private ApiUserInfoBiz biz;
 
